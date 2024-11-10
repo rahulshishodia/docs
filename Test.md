@@ -1,4 +1,4 @@
-# Log SQL queries and parameters in Hibernate
+### Log SQL queries and parameters in Hibernate
 
 ```
 # basic log level for all messages
